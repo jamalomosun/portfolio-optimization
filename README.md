@@ -1,2 +1,2 @@
 # portfolio-optimization
-Portfolio Optimizer 
+Portfolio Optimizer created for MATH 271 by Jamal Omosun and Angel Ortiz
